@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous" />
+
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Sacramento&family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet" />
+
+    <!-- countdown -->
+    <link rel="stylesheet" href="countdown/default.min.css" />
+    <link rel="stylesheet" href="countdown/default.css" />
+    <script src="countdown/simplyCountdown.js"></script>
+    <script src="countdown/simplyCountdown.js.map"></script>
+    <script src="countdown/simplyCountdown.umd.js"></script>
+    <script src="countdown/simplyCountdown.umd.js.map"></script>
+
+    <link rel="stylesheet" href="style.css" />
+
+    <title>Surya & Makise Wedding</title>
+  </head>
+  <body>
+    <section id="hero" class="hero w-100 h-100 p-3 mx-auto text-center d-flex justify-content-center align-items-center text-white">
+      <main>
+        <h4>Kepada Bapak/Ibu/Saudara/i</h4>
+        <h1>Surya & Makise</h1>
+        <p>Akan Melaksanakan Resepsi Pernikahan Dalam:</p>
+        <div class="simply-countdown"></div>
+        <a href="#undangan " class="btn btn-lg mt-4">Lihat Undangan</a>
+      </main>
+    </section>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+    <script>
+      simplyCountdown(".simply-countdown", {
+        year: 2025, // Target year (required)
+        month: 11, // Target month [1-12] (required)
+        day: 28, // Target day [1-31] (required)
+        hours: 8, // Target hour [0-23], default: 0
+        words: {
+          // Custom labels, with lambda for plurals
+          days: { root: "day", lambda: (root, n) => (n > 1 ? root + "s" : root) },
+          hours: { root: "hour", lambda: (root, n) => (n > 1 ? root + "s" : root) },
+          minutes: { root: "minute", lambda: (root, n) => (n > 1 ? root + "s" : root) },
+          seconds: { root: "second", lambda: (root, n) => (n > 1 ? root + "s" : root) },
+        },
+        plural: true, // Use plurals for labels
+      });
+    </script>
+  </body>
+</html>
