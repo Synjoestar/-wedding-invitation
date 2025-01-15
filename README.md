@@ -9,7 +9,7 @@ Kami dengan sukacita mengundang Anda untuk hadir di hari istimewa kami:
 
 ## 🗓️ Detail Acara
 
-**📅 Tanggal**: Sabtu, 15 Februari 2025  
+**📅 Tanggal**: Sabtu, 15 Februari 2045  
 **🕒 Waktu**: 10.00 WIB - selesai  
 **📍 Lokasi**:  
 Gedung Serbaguna Harmoni  
