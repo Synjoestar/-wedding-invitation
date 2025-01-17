@@ -1,70 +1,102 @@
-# 💍 Undangan Pernikahan Kami 💌
+# Online Wedding Invitation 💍🎉
 
-Halo teman-teman, keluarga, dan semua yang kami cintai!  
-Kami dengan sukacita mengundang Anda untuk hadir di hari istimewa kami:  
+Welcome to the **Online Wedding Invitation** repository! 🌟 This project is a beautifully designed, interactive, and customizable wedding invitation platform to make your special day even more memorable. 💕
 
-✨ **Pernikahan Kami!** ✨  
+## Features ✨
+
+1. **Personalized Invitation** 💌
+   - Add names of the bride, groom, and guests ✍️
+   - Display wedding date and location 📅📍
+
+2. **Countdown Timer** ⏳
+   - A live countdown to the big day 🕰️
+
+3. **RSVP Form** 📨
+   - Collect guest responses easily 🖋️
+   - Include meal preferences and additional notes 🍽️
+
+4. **Photo Gallery** 📸
+   - Showcase your love story with a beautiful photo album 🥰
+
+5. **Interactive Map** 🗺️
+   - Navigate to the wedding venue with ease 🚗
+
+6. **Music & Playlist** 🎵
+   - Add a romantic soundtrack or share your wedding playlist 🎧
+
+7. **Theme Customization** 🎨
+   - Choose from multiple designs, colors, and layouts 🖌️
+
+8. **Guest Book** 📖
+   - Let your guests leave heartfelt messages ❤️
+
+9. **Social Media Sharing** 🌐
+   - Share your invitation via WhatsApp, Instagram, or email 📲
+
+10. **Secure Access** 🔒
+    - Protect your invitation with a password for added privacy 🛡️
+
+## Installation 🛠️
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/wedding-invitation.git
+   ```
+2. Navigate to the project directory:
+   ```bash
+   cd wedding-invitation
+   ```
+3. Install dependencies:
+   ```bash
+   npm install
+   ```
+4. Start the development server:
+   ```bash
+   npm start
+   ```
+
+## Usage 🚀
+
+1. Open the invitation in your browser.
+2. Customize the details (names, date, location, etc.).
+3. Share the link with your guests.
+4. Collect RSVPs and enjoy the countdown to your wedding! 💐
+
+## Screenshots 📸
+
+![Wedding Invitation Screenshot](https://via.placeholder.com/600x400?text=Wedding+Invitation+Screenshot)
+
+## Technologies Used 🖥️
+
+- **HTML5** 🌐
+- **CSS3** 🎨
+- **JavaScript** ⚙️
+- **React.js** ⚛️ (optional for advanced features)
+- **Node.js** 🌲 (for backend functionality)
+
+## Contributing 🤝
+
+We welcome contributions! Please follow these steps:
+
+1. Fork the repository.
+2. Create a new branch:
+   ```bash
+   git checkout -b feature-name
+   ```
+3. Commit your changes:
+   ```bash
+   git commit -m "Add feature-name"
+   ```
+4. Push to the branch:
+   ```bash
+   git push origin feature-name
+   ```
+5. Open a pull request.
+
+## License 📜
+
+This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-## 🗓️ Detail Acara
-
-**📅 Tanggal**: Sabtu, 15 Februari 2045  
-**🕒 Waktu**: 10.00 WIB - selesai  
-**📍 Lokasi**:  
-Gedung Serbaguna Harmoni  
-Jl. Kebahagiaan No. 88, Jakarta  
-
----
-
-## 📜 Agenda Acara
-
-1. **10:00** - Kedatangan Tamu  
-2. **10:30** - Akad Nikah  
-3. **12:00** - Resepsi dan Jamuan  
-4. **14:00** - Acara Hiburan  
-
----
-
-## 🌟 RSVP
-
-Kami akan sangat berterima kasih jika Anda dapat mengonfirmasi kehadiran Anda:  
-- **Kontak**:   
-- **Batas RSVP**: 1 Februari 2025  
-
----
-
-## 🎁 Kado Pernikahan
-
-Kehadiran Anda sudah merupakan kado terbaik bagi kami!  
-Namun, jika ingin memberikan sesuatu, kami juga menerima:  
-- Amplop digital: [Link Rekening atau QR Code](#)  
-- Hadiah langsung pada acara.  
-
----
-
-## 🎉 Dress Code
-
-✨ **Tema**: Elegan Tradisional  
-👗 **Wanita**: Kebaya atau dress formal  
-🤵 **Pria**: Batik atau setelan formal  
-
----
-
-## 📷 Jangan Lupa!
-
-Bagikan momen bahagia kita bersama di media sosial dengan tagar:  
-**#BahagiaBersamaKami #NikahFebruari2025**  
-
----
-
-**Terima kasih atas doa dan dukungan Anda!**  
-Kami sangat menantikan kehadiran Anda di hari spesial kami! 🌸  
-
-❤️  
-**[] & []**
-
-
----
-
-## 📝 Repository ini masih dalam tahap pengembangan
+Made with 💖 for your special day by [Your Name]
